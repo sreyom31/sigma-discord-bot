@@ -1,5 +1,5 @@
 {
-  "name": "42-discord-bot",
+  "name": "sigma-discord-bot",
   "version": "1.0.0",
   "description": "Discord Bot to track invites",
   "main": "index.js",
